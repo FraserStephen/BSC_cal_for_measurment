@@ -1,0 +1,11 @@
+function beta = Beta_i(k, r_i, S_i, g_n)
+%
+%
+%
+%
+    
+    nmax = length(g_n);
+    
+    
+    
+    
